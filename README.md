@@ -10,6 +10,7 @@ This is a installed application flow: https://developers.google.com/accounts/doc
 INSTRUCTIONS
 
 FIRST TIME
+
 Clone the git
 
 Assert Your client id (Service Account Id) and Your client secret,  Google Developers find them   at Developer Console
