@@ -33,7 +33,13 @@ OTHER TIMES
 
 Call from_refreshtoken_accesstoken/0
 
-Now You have a fresh accesstoken that is usable for 3600 seconds, it was fetched from Google using the refresh_token.txt-file
+Now You have a fresh accesstoken that is usable for 3600 seconds, it was fetched from Google using the refresh_token.txt-file. If you get authorization errors, You propably have on outdated accesstoken, and you can get a fresh access token by calling from_refreshtoken_accesstoken/0
+
+ABOUT REFRESH TOKEN
+
+It will be valid for weeks or months?? Also it is a offline token, You don't have to login anywhere, You can start up Swi-prolog, get access token with from_refreshtoken_accesstoken and... 
+
+START CODING  with the FUTURE TOOL OF ALL REAL PROGRAMMERS: Swi-Prolog http://www.swi-prolog.org
 
 
 This is my first Github project and first collaborative project, so I will be making lots of newbie errors
