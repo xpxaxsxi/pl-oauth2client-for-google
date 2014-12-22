@@ -11,7 +11,7 @@ INSTRUCTIONS
 
 FIRST TIME
 
-Clone the git
+Get the code (download a zip-file or use git)
 
 Assert Your client id (Service Account Id) and Your client secret,  Google Developers find them   at Developer Console
 
