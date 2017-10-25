@@ -7,6 +7,8 @@ Tested with Google Compute Engine API, Windows XP (Windows 8 should work), Firef
 
 This is a installed application flow: https://developers.google.com/accounts/docs/OAuth2#installed
 
+Here is a experimental concept map of a Oauth2 flow https://cmapscloud.ihmc.us/viewer/cmap/1P3FCZL5C-6RN9BZ-54D
+
 INSTRUCTIONS
 
 FIRST TIME
